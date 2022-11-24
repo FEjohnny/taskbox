@@ -15,7 +15,7 @@
                 :value="task.title"
                 readonly
                 placeholder="Input title"
-                style="background: red"
+                style="background: blue"
             />
         </div>
         <div class="actions">
